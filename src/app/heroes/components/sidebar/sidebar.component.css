@@ -1,13 +1,13 @@
 .sidebar {
     width: 250px;
     height: 100vh;
-    background-color:#0d0534;
+    background-color:#ffffff;
     padding: 20px;
 }
 
 .sidebar-title {
     margin: 0px;
     font-size: 24px;
-    color: #9296a7;
+    color: #000000;
     text-align: center;
 }
